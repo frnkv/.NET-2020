@@ -1,2 +1,3 @@
-# villegasfranco1098-gmail.com
-.NET
+.NET-2020
+
+Repositorio para subir prácticas de laboratorio
