@@ -1,0 +1,7 @@
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\bin\Debug\Lab02.exe.config
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\bin\Debug\Lab02.exe
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\bin\Debug\Lab02.pdb
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\obj\Debug\Lab02.exe
+E:\Proyectos\Facultad\.NET\Laboratorio\Lab02\obj\Debug\Lab02.pdb
