@@ -1,0 +1,7 @@
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\bin\Debug\EjerciciosParaPensar.exe.config
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\bin\Debug\EjerciciosParaPensar.exe
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\bin\Debug\EjerciciosParaPensar.pdb
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\obj\Debug\EjerciciosParaPensar.csprojAssemblyReference.cache
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\obj\Debug\EjerciciosParaPensar.csproj.CoreCompileInputs.cache
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\obj\Debug\EjerciciosParaPensar.exe
+C:\Proyectos\Facultad\.NET\Laboratorios\Unidad 2\EjerciciosParaPensar\obj\Debug\EjerciciosParaPensar.pdb
