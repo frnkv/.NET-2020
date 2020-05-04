@@ -8,15 +8,45 @@ namespace EjerciciosParaPensar
 {
     class Program
     {
+
+        string[] meses = new string[] {
+                "enero",
+                "febrero",
+                "marzo",
+                "abril",
+                "mayo",
+                "junio",
+                "julio",
+                "agosto",
+                "septiembre",
+                "octubre",
+                "noviembre",
+                "diciembre",
+        };
+
+        Dictionary<string, Int16> numerosRomanos = new Dictionary<string, Int16> {
+            { "M", 1000 },
+            { "C", 100 },
+            { "L", 50 },
+            { "X", 10 },
+            { "V", 5 },
+            { "D", 500 },
+            { "I", 1 },
+        };
+
         static void Main(string[] args)
         {
-            ConsoleKeyInfo opcion = muestraMenu();
-            muestraEjercicio(opcion);
+            Program ejercicio = new Program();
+            
+            ConsoleKeyInfo opcion = ejercicio.MuestraMenu();
+
+            ejercicio.MuestraEjercicio(opcion);
+
             Console.ReadKey();
         }
 
 
-        private static ConsoleKeyInfo muestraMenu()
+        ConsoleKeyInfo MuestraMenu()
         {
             bool teclaValida;
             ConsoleKeyInfo keyPressed;
@@ -39,45 +69,45 @@ namespace EjerciciosParaPensar
 
                 keyPressed = Console.ReadKey();
 
-                teclaValida = validarTecla(keyPressed);
+                teclaValida = ValidarTecla(keyPressed);
 
             } while (!teclaValida);
 
             return keyPressed;
         }
 
-        private static void muestraEjercicio(ConsoleKeyInfo opcion)
+        void MuestraEjercicio(ConsoleKeyInfo opcion)
         {
             Console.Clear();
             switch (opcion.Key)
             {
                 case ConsoleKey.D1:
                 case ConsoleKey.NumPad1:
-                    sumaDosNumeros();
+                    SumaDosNumeros();
                     break;
                 case ConsoleKey.D2:
                 case ConsoleKey.NumPad2:
-                    verificarAnioBisiesto();
+                    VerificarAnioBisiesto();
                     break;
                 case ConsoleKey.D3:
                 case ConsoleKey.NumPad3:
-                    serieFibonacci();
+                    SerieFibonacci();
                     break;
                 case ConsoleKey.D4:
                 case ConsoleKey.NumPad4:
-                    numerosPares();
+                    NumerosPares();
                     break;
                 case ConsoleKey.D5:
                 case ConsoleKey.NumPad5:
-                    Console.Write("Opcion no desarrollada.");
+                    NumeroMes();
                     break;
                 case ConsoleKey.D6:
                 case ConsoleKey.NumPad6:
-                    Console.Write("Opcion no desarrollada.");
+                    NumerosRomanos();
                     break;
                 case ConsoleKey.D7:
                 case ConsoleKey.NumPad7:
-                    Console.Write("Opcion no desarrollada.");
+                    NumerosPrimosGemelos();
                     break;
                 case ConsoleKey.D8:
                 case ConsoleKey.NumPad8:
@@ -90,7 +120,7 @@ namespace EjerciciosParaPensar
             }
         }
 
-        private static void sumaDosNumeros()
+        void SumaDosNumeros()
         {
             Console.WriteLine("Construir una aplicación que sume dos números y proporcione el resultado con el formato siguiente: " +
                 "El resultado de la suma de < número uno > y < número dos > es < resultado >." + Environment.NewLine);
@@ -99,7 +129,7 @@ namespace EjerciciosParaPensar
 
             for (int i = 1; i < 3; i++)
             {
-                int numero = devuelveNumero("numero " + i);
+                int numero = DevuelveNumero("numero " + i);
 
                 numeros[(i - 1)] = numero;
             }
@@ -107,7 +137,7 @@ namespace EjerciciosParaPensar
             Console.Write(Environment.NewLine + "El resultado de la suma de " + numeros[0] + " y " + numeros[1] + " es " + (numeros[0] + numeros[1]));
         }
 
-        private static void verificarAnioBisiesto()
+        void VerificarAnioBisiesto()
         {
             Console.Write("Verificar anio bisiesto." + Environment.NewLine +
                 "Observación: Un año es bisiesto si es divisible por 4, excepto el último de cada siglo (aquel divisible por 100)," +
@@ -116,7 +146,7 @@ namespace EjerciciosParaPensar
                 "aunque no serán bisiestos si son divisibles entre 100 (como los años 1700, 1800, 1900 y 2100)" + Environment.NewLine +
                 " a no ser que sean divisibles por 400 (como los años 1600, 2000 ó 2400))" + Environment.NewLine);
 
-            int anio = devuelveNumero("anio");
+            int anio = DevuelveNumero("anio");
 
             if ((anio % 100 == 0 && anio % 400 == 0) || (anio % 4 == 0 && anio % 100 != 0))
             {
@@ -127,12 +157,12 @@ namespace EjerciciosParaPensar
             }
         }
 
-        private static void serieFibonacci()
+        void SerieFibonacci()
         {
             Console.Write("Serie de Fibonacci, debe ingresar la cantidad de numeros, es decir:" + Environment.NewLine +
                 "Si ingresa 3, se le mostrara -> 0, 1, 1" + Environment.NewLine + Environment.NewLine);
 
-            int cantidadNumeros = devuelveNumero("cantidad de numeros a mostrar");
+            int cantidadNumeros = DevuelveNumero("cantidad de numeros a mostrar");
             string mensajeAMostrar = "";
 
             int antePenultimo = 0;
@@ -160,7 +190,7 @@ namespace EjerciciosParaPensar
             Console.WriteLine("Serie de Fibonacci a mostrar: " + mensajeAMostrar);
         }
 
-        private static void numerosPares()
+        void NumerosPares()
         {
             Console.Write("Escribe todos los numeros pares del 0 al 100" + Environment.NewLine);
 
@@ -173,8 +203,142 @@ namespace EjerciciosParaPensar
 
             Console.Write(numPares);
         }
+        
+        void NumeroMes()
+        {
+            Console.Write("Construir una aplicación que reciba el nombre de un mes del año como el parámetro" +
+                " y proporcione su número correspondiente. " + Environment.NewLine +
+                "Debe ser con el formato: < Nombre del mes > + < número del mes >." + Environment.NewLine);
 
-        private static bool validarTecla(ConsoleKeyInfo opcion)
+            Console.Write("Ingrese mes: ");
+
+            string texto = Console.ReadLine();
+
+            int numero = 0;
+
+            if (MesValido(texto))
+            {
+                numero = ObtenerNumeroMes(texto);
+
+                Console.WriteLine("< " + texto + " >" + "< " + numero + " >");
+            }
+
+        }
+
+        void NumerosRomanos()
+        {
+            Console.WriteLine("Dado un número entero, que se convierta a número romano. (Regla: numero menor o igual a 3000)" + Environment.NewLine);
+
+            int numeroInput;
+            do
+            {
+                numeroInput = DevuelveNumero("numero para ser convertido");
+            } while (numeroInput > 3000);
+
+            string numRomano = "";
+
+            foreach (KeyValuePair<string, Int16> pair in numerosRomanos.OrderByDescending(pair => pair.Value))
+            {
+                int cociente = numeroInput / pair.Value; // cociente
+                int resto = numeroInput % pair.Value; // resto
+                if (cociente > 0)
+                {
+                    for (int i = 0; i < cociente; i++)
+                    {
+                        numRomano = numRomano + pair.Key;
+                    }
+
+                    numeroInput = resto;
+                }
+            }
+
+            Console.WriteLine("Numero romano: " + numRomano);
+        }
+
+        void NumerosPrimosGemelos()
+        {
+            Console.Write("Calcular los N primeros números primos gemelos." + Environment.NewLine + Environment.NewLine +
+                "Dos números primos se denominan gemelos si uno de ellos es igual al otro más dos unidades." + Environment.NewLine +
+                "Así pues, los números primos 3 y 5 forman una pareja de primos gemelos." + Environment.NewLine);
+
+            int num = DevuelveNumero("cantidad maxima de numeros a evaluar" + Environment.NewLine);
+
+            List<int> listNumerosPrimos = new List<int>();
+
+            for (int i = num; i > 0; i--)
+            {
+                List<int> listDivisores = new List<int>();
+                for (int j = 1; j <= i; j++)
+                {
+                    int resto = i % j;
+                    if (resto == 0)
+                    {
+                        listDivisores.Add(j);
+                    }
+                }
+
+                if (listDivisores.ToArray().Length == 2)
+                {
+                    listNumerosPrimos.Add(i);
+                }
+            }
+
+            List<int> listNumerosPrimosGemelos = new List<int>();
+            listNumerosPrimos.Reverse();
+
+            int[] arrayNumerosPrimos = listNumerosPrimos.ToArray();
+
+            for(int i = 0; i < arrayNumerosPrimos.Length; i++)
+            {
+
+                Console.WriteLine(arrayNumerosPrimos[i]);
+
+                if (arrayNumerosPrimos.Last() != arrayNumerosPrimos[i])
+                {
+                    Console.WriteLine(arrayNumerosPrimos[++i]);
+
+                    if (arrayNumerosPrimos[i] + 2 == arrayNumerosPrimos[++i])
+                    {
+                        listNumerosPrimosGemelos.Add(arrayNumerosPrimos[i]);
+                    }
+
+                } else if (listNumerosPrimosGemelos.Contains(arrayNumerosPrimos[i] - 2))
+                {
+                    listNumerosPrimosGemelos.Add(arrayNumerosPrimos[i]);
+                }
+            }
+
+
+            Console.WriteLine("Lista numeros primos gemelos dentro de " + num + ":" + Environment.NewLine);
+
+            for (int i = 0; i < listNumerosPrimosGemelos.ToArray().Length; i++)
+            {
+                Console.WriteLine(listNumerosPrimosGemelos.ToArray()[i]);
+            }
+
+            Console.ReadLine();
+        }
+
+        bool MesValido(string texto)
+        {
+            string input = texto.ToLower();
+
+            bool resultado = meses.Contains(input);
+
+            if (!resultado)
+            {
+                Console.WriteLine("Mes no valido.");
+            }
+
+            return resultado;
+        }
+
+        int ObtenerNumeroMes(string mes)
+        {
+            return Array.FindIndex(meses, (m) => m == mes) + 1;
+        }
+
+        bool ValidarTecla(ConsoleKeyInfo opcion)
         {
             return opcion.Key == ConsoleKey.D1 || opcion.Key == ConsoleKey.NumPad1 || // verifico numpad 1 y 1 comun
                 opcion.Key == ConsoleKey.D2 || opcion.Key == ConsoleKey.NumPad2 || // verifico numpad 2 y 2 comun
@@ -192,7 +356,7 @@ namespace EjerciciosParaPensar
         /// </summary>
         /// <param name="mensaje"></param>
         /// <returns></returns>
-        private static int devuelveNumero(string mensaje)
+        int DevuelveNumero(string mensaje)
         {
             int numero;
             string input;
