@@ -1,0 +1,12 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\bin\Debug\Windows.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\bin\Debug\Windows.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\bin\Debug\Windows.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\bin\Debug\Util.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\bin\Debug\Util.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.csproj.CopyComplete
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Windows\obj\Debug\Windows.pdb

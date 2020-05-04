@@ -1,0 +1,2 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad1\Capitulo02\Lab01\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
