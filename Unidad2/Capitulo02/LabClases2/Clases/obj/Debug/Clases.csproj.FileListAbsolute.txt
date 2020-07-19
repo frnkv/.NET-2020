@@ -1,0 +1,6 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\bin\Debug\Clases.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\bin\Debug\Clases.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\obj\Debug\Clases.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,10 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\bin\Debug\LabClases2.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\bin\Debug\LabClases2.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\bin\Debug\LabClases2.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\bin\Debug\Clases.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\bin\Debug\Clases.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\obj\Debug\LabClases2.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\obj\Debug\LabClases2.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\obj\Debug\LabClases2.csproj.CopyComplete
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\obj\Debug\LabClases2.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\LabClases2\obj\Debug\LabClases2.pdb

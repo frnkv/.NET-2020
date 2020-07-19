@@ -1,0 +1,10 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\bin\Debug\ConsolaAdivinarNumero.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\bin\Debug\ConsolaAdivinarNumero.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\bin\Debug\ConsolaAdivinarNumero.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\bin\Debug\Ejercicio5.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\bin\Debug\Ejercicio5.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\obj\Debug\ConsolaAdivinarNumero.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\obj\Debug\ConsolaAdivinarNumero.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\obj\Debug\ConsolaAdivinarNumero.csproj.CopyComplete
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\obj\Debug\ConsolaAdivinarNumero.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Ejercicio5\ConsolaAdivinarNumero\obj\Debug\ConsolaAdivinarNumero.pdb

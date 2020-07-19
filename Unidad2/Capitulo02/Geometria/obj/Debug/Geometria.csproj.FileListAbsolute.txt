@@ -1,0 +1,6 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\bin\Debug\Geometria.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\obj\Debug\Geometria.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad2\Capitulo02\Geometria\obj\Debug\Geometria.pdb
