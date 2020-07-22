@@ -1,0 +1,10 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\bin\Debug\Ejercicio07.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\bin\Debug\Ejercicio07.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.Form1.resources
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.Properties.Resources.resources
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.csproj.GenerateResource.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio07\obj\Debug\Ejercicio07.pdb

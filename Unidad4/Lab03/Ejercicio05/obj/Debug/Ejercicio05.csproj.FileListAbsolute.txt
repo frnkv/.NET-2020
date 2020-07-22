@@ -1,0 +1,6 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\bin\Debug\Ejercicio05.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\bin\Debug\Ejercicio05.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\obj\Debug\Ejercicio05.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio05\obj\Debug\Ejercicio05.pdb

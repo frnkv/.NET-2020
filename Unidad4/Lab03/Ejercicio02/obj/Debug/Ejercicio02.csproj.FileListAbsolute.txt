@@ -1,0 +1,7 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad4\Lab03\Ejercicio02\obj\Debug\Ejercicio02.pdb
