@@ -1,0 +1,6 @@
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\bin\Debug\Negocio.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\obj\Debug\Negocio.dll
+C:\Users\Franco\Proyectos\Facultad\.NET\Laboratorios\Unidad5\Negocio\obj\Debug\Negocio.pdb
