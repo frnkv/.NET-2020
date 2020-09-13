@@ -1,0 +1,12 @@
+<asp:Button runat="server" 
+BackColor="lightblue"   
+ForeColor="Black"   
+Font-Name="Arial"   
+Font-Size="9px" />
+
+<asp:Label runat="server"  
+	Font-Bold="True" 
+	Font-Names="Garamond" 
+	Font-Overline="False" 
+	BackColor="LightGoldenrodYellow" />
+

@@ -127,6 +127,7 @@
     <Content Include="Home.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="LabLoginMasterPage.Master" />
+    <Content Include="App_Themes\Azul\Button.skin" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Read.aspx" />
     <Content Include="Save.aspx" />
